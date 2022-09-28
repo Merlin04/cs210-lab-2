@@ -1,0 +1,9 @@
+What are the maximum and minimum values for the following integer types?
+(a) (2 points) Unsigned integers with 64 bits.
+	18446744073709551615, 0
+(b) (2 points) Signed integers with 64 bits.
+	9223372036854775807, -9223372036854775808
+(c) (2 points) Unsigned integers with 32 bits.
+	4294967295, 0
+(d) (2 points) Signed integers with 32 bits.
+	2147483647, -2147483648

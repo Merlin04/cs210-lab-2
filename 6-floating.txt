@@ -1,0 +1,4 @@
+Floating Point Increments.
+(a) (4 points) What is the difference between the largest non-infinite number representable with single-precision floating point and the second largest such number? Show your work.
+	
+(b) (4 points) What is the difference between the second smallest positive number representable with single-precision floating point and the smallest such number? Show your work.
